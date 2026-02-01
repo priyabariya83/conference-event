@@ -3,8 +3,7 @@
 A modern, responsive conference event page with registration forms, interactive schedule tables, and professional styling.
 
 ## 🌐 Live Demo
-**[View Live Demo](https://yourusername.github.io/conference-event/)** - *Replace with your actual deployment link*
-
+**[View Live Demo](https://priyabariya83.github.io/conference-event/)
 ## ✨ Features
 
 - **Fully Responsive Design** - Works on mobile, tablet, and desktop
@@ -165,4 +164,5 @@ This project is open source and available under the MIT License.
 ---
 
 *Last Updated: February 2026*  
+
 *Designed for VS Code development environment*
